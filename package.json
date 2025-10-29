@@ -1,0 +1,16 @@
+{
+  "name": "v4-limit-order-hook",
+  "version": "1.0.0",
+  "description": "This project demonstrates how to build a **Limit Order Hook** using the **Uniswap V4 architecture** — showcasing the power of hooks, flash accounting, and the singleton design. Built entirely in **Solidity** with **Foundry**, this contract acts as an on-chain extension of Uniswap V4, enabling users to create and execute limit orders directly through the **Hook system**.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
